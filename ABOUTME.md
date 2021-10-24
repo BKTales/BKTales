@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BKTales
-- 👀 I’m interested in learning C# :?
+- 👀 I’m interested in learning C# :)
 - 🌱 I’m currently learning C#
 - 📫 How to reach me BKᵀᵃˡᵉˢ#0033
 
