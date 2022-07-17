@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @BKTales
-- 👀 I’m interested in learning C# :)
-- 🌱 I’m currently learning C#
-- 📫 How to reach me BKᵀᵃˡᵉˢ#0033
+## Who am I?
+- Name: BKTales | Bernardo
+- ~~Age:󠀠󠀠󠀠~~
+- Nationality: 💚❤️
+- Fluency: Portuguese, English
+- How to reach me: superpootis12@gmail.com
+
+## What languages am I learning?
+- C#
+- Java
+- C
+- Python
+
+## Projects: 
+- Garage (100%)
+
 
 <!---
 BKTales/BKTales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
