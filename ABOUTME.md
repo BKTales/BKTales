@@ -13,6 +13,8 @@
 
 ## Projects: 
 - Garage (100%)
+- Bank (100%)
+- Market (95%)
 
 
 <!---
