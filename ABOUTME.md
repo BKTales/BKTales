@@ -1,9 +1,9 @@
 ## Who am I?
 - Name: BKTales | Bernardo
-- ~~Age:󠀠󠀠󠀠~~
+- Age:󠀠󠀠󠀠 18
 - Nationality: 💚❤️
 - Fluency: Portuguese, English
-- How to reach me: superpootis12@gmail.com
+- How to reach me: bktalesdev@gmail.com
 
 ## What languages am I learning?
 - [C#](https://dotnet.microsoft.com/en-us/)
