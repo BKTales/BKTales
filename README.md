@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **html; css; js; react**
 
-- 💬 Ask me about: **Java!**
+- 💬 Ask me about: **anything!**
 
 - 📫 How to reach me: **bktalesdev@gmail.com** | **bktales** (discord)
 
