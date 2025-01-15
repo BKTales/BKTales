@@ -7,7 +7,7 @@
 
 - 🏫 I’m currently studying at [ISEP - IPP](https://www.isep.ipp.pt/)
 
-- 🌱 I’m currently learning **html; css; js; react**
+- 🌱 I’m currently learning **everything I am able to**
 
 - 💬 Ask me about: **anything!**
 
