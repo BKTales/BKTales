@@ -7,7 +7,10 @@
 
 - 🏫 I’m currently studying at [ISEP - IPP](https://www.isep.ipp.pt/)
 
-- 🌱 I’m currently learning **everything I am able to**
+- 🌱 I’m currently learning **CyberSecurity** via TryHackMe Premium
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/BKTales.png" alt="Your Image Badge" />
+
 
 - 💬 Ask me about: **anything!**
 
