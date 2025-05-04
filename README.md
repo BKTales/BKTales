@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning **CyberSecurity** via TryHackMe Premium
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/BKTales.png" alt="Your Image Badge" />
-
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-View_Profile-red?logo=tryhackme)](https://tryhackme.com/p/BKTales)
 
 - 💬 Ask me about: **anything!**
 
