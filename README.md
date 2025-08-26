@@ -12,9 +12,6 @@ I’m currently in my <b>2nd year</b> studying at [ISEP - IPP](https://www.isep.
 
 - 📫 How to reach me: **bktalesdev@gmail.com** | **bktales** (discord)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bktales&theme=onedark)](https://github.com/bktales/github-profile-trophy)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWcwbjE4dmJpZGJucG14Mml5cmp5OTYzYWk3d2dqeDRlb3NhMWkxbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XMkRFxK153adUcGeFH/200.webp" width="3%"> <b>⤷ Languages and Tools 🔨</b>
