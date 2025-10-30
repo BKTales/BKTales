@@ -8,7 +8,8 @@
 I’m currently in my <b>2nd year</b> studying at [ISEP - IPP](https://www.isep.ipp.pt/), always eager and stubborn to understand learning something new. I consider myself a huge fan of automation and make the machine to do the heavy lifting for me, and I've always found fascinating the art of protecting systems and helping people out. Make sure you go through my <i>repositories</i> to check my projects.
 
 - 🍀 I am currently learning...
-  -  CyberSecurity Basics
+  -  CyberSecurity
+  -  Networking
 
 - 📫 How to reach me: **bktalesdev@gmail.com** | **bktales** (discord)
 
@@ -20,6 +21,7 @@ I’m currently in my <b>2nd year</b> studying at [ISEP - IPP](https://www.isep.
 
 ###### Languages & Syntax:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)&nbsp;
 
 ###### Communication Tools
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
@@ -36,6 +38,8 @@ I’m currently in my <b>2nd year</b> studying at [ISEP - IPP](https://www.isep.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge)&nbsp;
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
