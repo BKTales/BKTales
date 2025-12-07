@@ -7,9 +7,8 @@
 
 I’m currently in my <b>2nd year</b> studying at [ISEP - IPP](https://www.isep.ipp.pt/), always eager and stubborn to understand learning something new. I consider myself a huge fan of automation and make the machine to do the heavy lifting for me, and I've always found fascinating the art of protecting systems and helping people out. Make sure you go through my <i>repositories</i> to check my projects.
 
-- 🍀 I am currently learning...
-  -  CyberSecurity
-  -  Networking
+- 🍀 I am currently working on...
+  -  Something really neat! (Updates soon).
 
 - 📫 How to reach me: **bktalesdev@gmail.com** | **bktales** (discord)
 
