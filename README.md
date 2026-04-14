@@ -22,7 +22,7 @@ I’m currently in my <b>2nd year</b> studying at [ISEP - IPP](https://www.isep.
   - 🏠 **HomeLab:** Managing self-hosted services and network automation.
 - 🚀 **Key Projects:**
   - 👤 **Eigenfaces:** Recognition system using PCA and facial decomposition.
-  - 🚂 **Train Simulation:** Real-time simulation and concurrency management.
+  - 🚂 **Train Simulation:** Real-time simulation and statitics.
 
 ---
 
