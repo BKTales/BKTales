@@ -15,7 +15,6 @@ I’m currently in my <b>3rd year</b> studying at [ISEP - IPP](https://www.isep.
 
 - 🍀 **Currently working on:**
   - 🎓 CCNA Certification Path (Switching, Routing, and Wireless Essentials)
-  - ✈️ Flight Simulation & Systems
 - 🛠️ **Interests & Focus:**
   - 🌐 **Networking:** Deep diving into routing protocols and infrastructure.
   - 🛡️ **Cybersec:** Exploring defensive security and system hardening.
@@ -23,6 +22,7 @@ I’m currently in my <b>3rd year</b> studying at [ISEP - IPP](https://www.isep.
 - 🚀 **Key Projects:**
   - 👤 **Eigenfaces:** Recognition system using PCA and facial decomposition.
   - 🚂 **Train Simulation:** Real-time simulation and statitics.
+  - ✈️ Flight Simulation & Systems
 
 ---
 
@@ -31,7 +31,7 @@ I’m currently in my <b>3rd year</b> studying at [ISEP - IPP](https://www.isep.
 | Certification | Status | Badge |
 | :--- | :---: | :--- |
 | **CCNA 1: Introduction to Networks** | ✅ Done | [![CCNA1](https://img.shields.io/badge/Verified-Credly-0078D4?style=flat&logo=cisco&logoColor=white)](https://www.credly.com/badges/4d22b52c-9cc4-4776-ba8a-a19928c74b53/) |
-| **CCNA 2: Switching, Routing, and Wireless** | 🚧 In Progress | ![Progress](https://img.shields.io/badge/Progress-0%25-orange) |
+| **CCNA 2: Switching, Routing, and Wireless** | 🚧 In Progress | ![Progress](https://img.shields.io/badge/Progress-99%25-orange) |
 | **CCNA 3: Enterprise Networking & Automation** | 📅 To Do | ![To do](https://img.shields.io/badge/Status-Queued-lightgrey) |
 
 ---
