@@ -11,7 +11,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWcwbjE4dmJpZGJucG14Mml5cmp5OTYzYWk3d2dqeDRlb3NhMWkxbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/voe9bJ93OgfOOwqzb9/giphy.webp" width="3%"> <b>⤷ About me 🤔</b>
 
-I’m currently in my <b>2nd year</b> studying at [ISEP - IPP](https://www.isep.ipp.pt/). I'm a tech enthusiast who loves automation and making machines do the heavy lifting. My main focus lies in the intersection of **Networking**, **Cybersecurity**, and the art of **Home Labbing**, where I enjoy building and breaking things in my own controlled environment to better understand system security.
+I’m currently in my <b>3rd year</b> studying at [ISEP - IPP](https://www.isep.ipp.pt/). I'm a tech enthusiast who loves automation and making machines do the heavy lifting. My main focus lies in the intersection of **Networking**, **Cybersecurity**, and the art of **Home Labbing**, where I enjoy building and breaking things in my own controlled environment to better understand system security.
 
 - 🍀 **Currently working on:**
   - 🎓 CCNA Certification Path (Switching, Routing, and Wireless Essentials)
