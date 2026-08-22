@@ -13,16 +13,18 @@
 
 I’m currently in my <b>3rd year</b> studying at [ISEP - IPP](https://www.isep.ipp.pt/). I'm a tech enthusiast who loves automation and making machines do the heavy lifting. My main focus lies in the intersection of **Networking**, **Cybersecurity**, and the art of **Home Labbing**, where I enjoy building and breaking things in my own controlled environment to better understand system security.
 
-- 🍀 **Currently working on:**
-  - 🎓 CCNA Certification Path (Switching, Routing, and Wireless Essentials)
-- 🛠️ **Interests & Focus:**
-  - 🌐 **Networking:** Deep diving into routing protocols and infrastructure.
-  - 🛡️ **Cybersec:** Exploring defensive security and system hardening.
-  - 🏠 **HomeLab:** Managing self-hosted services and network automation.
-- 🚀 **Key Projects:**
-  - 👤 **Eigenfaces:** Recognition system using PCA and facial decomposition.
-  - 🚂 **Train Simulation:** Real-time simulation and statitics.
-  - ✈️ Flight Simulation & Systems
+**Currently working on:**
+- CCNA Certification Path (Switching, Routing, and Wireless Essentials)
+
+**Interests & Focus:**
+- **Networking** - Deep diving into routing protocols and infrastructure.
+- **Cybersecurity** - Exploring defensive security and system hardening.
+- **Home Lab** - Managing self-hosted services and network automation.
+
+**Key Projects:**
+- **Eigenfaces** - Recognition system using PCA and facial decomposition.
+- **Train Simulation** - Real-time simulation and statistics.
+- **Flight Simulation & Systems**
 
 ---
 
