@@ -131,9 +131,9 @@ Ping statistics for linkedin.com:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bktales/bktales/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bktales/bktales/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/bktales/bktales/output/github-snake-dark.svg" alt="Snake eating my contribution graph"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/bktales/bktales@output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/bktales/bktales@output/github-snake.svg"/>
+    <img src="https://cdn.jsdelivr.net/gh/bktales/bktales@output/github-snake-dark.svg" alt="Snake eating my contribution graph"/>
   </picture>
 </div>
 
