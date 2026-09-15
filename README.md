@@ -69,14 +69,14 @@ I’m currently in my <b>3rd year</b> studying at [ISEP - IPP](https://www.isep.
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNhNDZ6cGhiaXhyM2R0NWNnaXg5emhkY25mYjQ4dXlzeGdyd2p5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EgWkHnePsN8wXKrxNZ/giphy.gif" width="3%"> <b>⤷ Fun Metrics 🍎</b>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bktales&theme=nightowl&show_icons=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=bktales&theme=nightowl&show_icons=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bktales&theme=nightowl&hide_border=false&langs_count=10" width="48%"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=superpootis12&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=superpootis12&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
     <br><br>
     <a href="https://www.linkedin.com/in/bernardo-correia-ab306432a/">
       <img src="https://img.shields.io/badge/Contact_me_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
