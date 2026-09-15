@@ -127,23 +127,8 @@ Ping statistics for linkedin.com:
 
 ---
 
-## `$ ./contribution_graph.sh --eat`
+## `$ fortune | cowsay`
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/bktales/bktales@output/github-snake-dark.svg?v1"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/bktales/bktales@output/github-snake.svg?v1"/>
-    <img src="https://cdn.jsdelivr.net/gh/bktales/bktales@output/github-snake-dark.svg" alt="Snake eating my contribution graph"/>
-  </picture>
-</div>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
 
 ---
-
-<div align="center">
-
-```
-"The network is the computer."
-                            — John Gage
-```
-
-</div>
