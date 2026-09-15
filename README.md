@@ -69,7 +69,7 @@ bktales#
 
 **Linguagens**
 
-[![Stack](https://skillicons.dev/icons?i=java,c,cpp&theme=dark)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=java,c,python&theme=dark)](https://skillicons.dev)
 
 **Ferramentas & Lab**
 
